@@ -1,0 +1,15 @@
+﻿{
+  "IPAddress": "undefined",
+  "rightkeyptPortNum": "50000",
+  "leftkeyptPortNum": "50001",
+  "camPortNum": "50002",
+  "graphPortNum": "50003",
+  "resolutionPortNum": "50004",
+  "PausePortNum": "50005",
+  "rightgripperPortNum": "50006",
+  "leftgripperPortNum": "50007",
+  "LeftPausePortNum": "50008",
+  "RightPausePortNum": "50009",
+  "LeftGripperRotatePortNum": "50010",
+  "RightGripperRotatePortNum": "50011"
+}
