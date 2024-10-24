@@ -1,0 +1,7 @@
+{
+    "server_ports": {
+        "rightkeyptPortNum": 50000,
+        "leftkeyptPortNum": 50001
+    },
+    "host": "0.0.0.0"
+}
